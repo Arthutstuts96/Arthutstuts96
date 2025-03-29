@@ -1,5 +1,5 @@
-## Olá! Me chamo Arthur Lima, iniciante em programação
-Atualmente aprendendo Flutter <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg](https://cdn.worldvectorlogo.com/logos/flutter-logo.svg)" width=20/>
+## Olá! Me chamo Arthur Lima, estudante de computação
+Atualmente aprendendo Flutter <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg](https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" width=20/>
 <!--
 **Arthutstuts96/Arthutstuts96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
